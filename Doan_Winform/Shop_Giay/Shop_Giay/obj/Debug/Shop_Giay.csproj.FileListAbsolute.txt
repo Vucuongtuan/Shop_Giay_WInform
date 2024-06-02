@@ -1,0 +1,204 @@
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe.config
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.pdb
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.pdb
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_DanhGia.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_Hoa_Don.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Home.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Master.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Login.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Properties.Resources.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_QL_SP.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_Admin.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_KhachHang.resources
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.exe
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.pdb
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CopyComplete
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe.config
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_DanhGia.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_Hoa_Don.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Home.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Master.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Login.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Properties.Resources.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_QL_SP.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_Admin.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_KhachHang.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CopyComplete
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.exe
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.pdb
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe.config
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.exe
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.pdb
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x86.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x64.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.pdb
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.pdb
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.pdb
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_DanhGia.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_Hoa_Don.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Home.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Master.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Login.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Properties.Resources.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_QL_SP.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_Admin.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_KhachHang.resources
+D:\Đồ án\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.GenerateResource.Cache
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe.config
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.exe
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.pdb
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x86.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\grpc_csharp_ext.x64.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.exe
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Shop_Giay.pdb
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.pdb
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.pdb
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\Grpc.Core.Api.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Buffers.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Memory.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Numerics.Vectors.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csprojResolveAssemblyReference.cache
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_DanhGia.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_Hoa_Don.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Home.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Master.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Login.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Properties.Resources.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_QL_SP.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_Admin.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_KhachHang.resources
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.GenerateResource.Cache
+D:\CNW\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_register_KH.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_register_KH.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.giohang.resources
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\grpc_csharp_ext.x86.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\grpc_csharp_ext.x64.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\libgrpc_csharp_ext.x64.so
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\libgrpc_csharp_ext.x64.dylib
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.exe.config
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.exe
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Buffers.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Memory.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.pdb
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Buffers.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Memory.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Runtime.CompilerServices.Unsafe.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\grpc_csharp_ext.x86.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\grpc_csharp_ext.x64.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\libgrpc_csharp_ext.x64.so
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\libgrpc_csharp_ext.x64.dylib
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.exe.config
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.exe
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Shop_Giay.pdb
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Buffers.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Memory.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Numerics.Vectors.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Runtime.CompilerServices.Unsafe.dll
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.pdb
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.pdb
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\Grpc.Core.Api.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Buffers.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Memory.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Numerics.Vectors.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\images\System.Runtime.CompilerServices.Unsafe.xml
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.AssemblyReference.cache
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.SuggestedBindingRedirects.cache
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_DanhGia.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_Hoa_Don.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Home.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.Form_Master.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Login.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.Properties.Resources.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_QL_SP.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_register_KH.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_Admin.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.Form_TK_KhachHang.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.View.trangcon.giohang.resources
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.GenerateResource.cache
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CoreCompileInputs.cache
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.csproj.CopyComplete
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.exe
+C:\dL deskop\App BanGIay\Doan_Winform\Shop_Giay\Shop_Giay\obj\Debug\Shop_Giay.pdb

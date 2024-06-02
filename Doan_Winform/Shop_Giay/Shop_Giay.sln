@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop_Giay", "Shop_Giay\Shop_Giay.csproj", "{F318413A-FA3B-4075-BE74-0BD4E966E5EE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7AF70A37-B675-4D26-9F9D-4A3654A86E03} = {7AF70A37-B675-4D26-9F9D-4A3654A86E03}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Service_banGiay(1)", "..\..\Service_banGiay\", "{7AF70A37-B675-4D26-9F9D-4A3654A86E03}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57038"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Service_banGiay\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57038\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57038"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Service_banGiay\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57038\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57038"
+		SlnRelativePath = "..\..\Service_banGiay\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F318413A-FA3B-4075-BE74-0BD4E966E5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F318413A-FA3B-4075-BE74-0BD4E966E5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F318413A-FA3B-4075-BE74-0BD4E966E5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F318413A-FA3B-4075-BE74-0BD4E966E5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF70A37-B675-4D26-9F9D-4A3654A86E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF70A37-B675-4D26-9F9D-4A3654A86E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF70A37-B675-4D26-9F9D-4A3654A86E03}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF70A37-B675-4D26-9F9D-4A3654A86E03}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD3FF63-B166-48D3-A245-B7F3769F2628}
+	EndGlobalSection
+EndGlobal
